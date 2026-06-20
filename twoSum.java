@@ -1,3 +1,4 @@
+//Leetcode problem 1. Two Sum
 class Solution {
     public static int[] twoSum(int[] nums, int target) {
 
@@ -18,7 +19,7 @@ class Solution {
         return nums;
     }
 }
-
+// This is the sample Main method, leetcode doesnt require a main method for this problem.
 // public static void main(String[] args) {
 
 //     int nums[] = { 2, 7, 11, 15 };
